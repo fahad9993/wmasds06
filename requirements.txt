@@ -1,0 +1,7 @@
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+matplotlib==3.10.8
+statsmodels==0.14.6
+factor_analyzer==0.5.1
+pingouin==0.6.1
