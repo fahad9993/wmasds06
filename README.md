@@ -1,4 +1,4 @@
-# Multivariate Statistical Analysis — Term Project (Summer 2026)
+# Multivariate Statistical Analysis — Term Project
 
 Reproducible code and data for the term project. Run:
 
