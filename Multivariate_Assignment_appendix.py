@@ -1,6 +1,6 @@
 """
 ================================================================================
-Multivariate Statistical Analysis -- Term Project (Summer 2026)
+Multivariate Statistical Analysis -- Term Project
 Department of Statistics and Data Science
 ================================================================================
 Reproducible analysis script covering Parts A-E:
